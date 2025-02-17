@@ -30,7 +30,12 @@ You are only allowed to use the following:
 - Grapes: $2.00
 - Watermelon: $1.50
 
+### Notes
+- Make sure to handle invalid input gracefully.
+- Ensure that all user interactions are clear and user-friendly.
+- Maintain a transaction history to keep track of all user actions.
 
+Good luck!
 ## Example output
 
 Welcome to the Store!
